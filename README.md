@@ -1,6 +1,50 @@
-### Hi there 👋
+<h3 align="center">Hello there, I'm Carlos 👋</h3>
 
-My pinned repos usually reflect my most recent skill set. I am constantly learning new things.
+<h5 align="center">
+
+<code>
+  <a href="https://www.linkedin.com/in/carlos-albuquerque-carneiro/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+</code>
+
+<code>
+  <a href="https://www.instagram.com/cacpmw/" title="Instagram"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a>
+</code>
+</h5
+
+<p align="center">
+  Hi, I'm an independent software developer from Brazil focused on NA and EU companies. My pinned repos usually reflect my most recent skill set. I am constantly learning new things.
+<br/>
+<br/>
+  
+  📫  How to reach me: <a href="mailto: carloscarneiropmw@gmail.com">carloscarneiropmw@gmail.com</a>
+</p>
+
+<hr>
+
+<h2 align="center">Languages, Frameworks, Tools & Abilities</h2>
+
+<p align="center">
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+</p>
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=cacpmw&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacpmw&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
+
+
 
 
 <!--
