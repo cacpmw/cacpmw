@@ -1,3 +1,4 @@
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=cacpmw&repo=cacpmw&countColorcountColor)
 <h3 align="center">Hello there, I'm Carlos 👋</h3>
 
 <h5 align="center">
