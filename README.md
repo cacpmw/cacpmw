@@ -24,13 +24,10 @@
 <p align="center">
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
 </p>
 
 <p align=center>
